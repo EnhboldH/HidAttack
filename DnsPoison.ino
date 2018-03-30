@@ -1,5 +1,4 @@
 #include "Keyboard.h"
-
 void typeKey(int key)
 {
   Keyboard.press(key);
