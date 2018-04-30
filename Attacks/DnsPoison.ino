@@ -1,3 +1,4 @@
+//Targed windows 10
 #include "Keyboard.h"
 void typeKey(int key)
 {
